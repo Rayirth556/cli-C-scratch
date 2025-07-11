@@ -25,3 +25,8 @@ Run and test the file using:
 2) If it exists, it updates the timestamps to the current time with ```utime()```.
 
 3) If it doesn’t, it creates an empty file with ```fopen()``` in "w" mode.
+
+
+
+
+## This is just for my learning of low level C
